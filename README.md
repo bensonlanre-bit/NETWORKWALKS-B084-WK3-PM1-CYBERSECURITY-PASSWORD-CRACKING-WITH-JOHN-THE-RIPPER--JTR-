@@ -1,5 +1,5 @@
-# NETWORKWALKS-B084-WK3-PM1-CYBERSECURITY-
-This is an isolated visual lab built with VisiualBox and Kali Linux for Cybersecurity testing and penetration testing
+# NETWORKWALKS-B084-WK3-PM1-CYBERSECURITY-PASSWORD-CRACKING-WITH-JTR
+This is an isolated visual lab built with John the ripper for Cybersecurity testing and penetration testing
 
 <div align="center">
 
