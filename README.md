@@ -71,4 +71,5 @@ Learning Today. Securing Tomorrow.
 
 All practical exercises are intended strictly for educational and defensive cybersecurity purposes.
 Password auditing should only be performed on password hashes that belong to you or that you have explicit permission to test.
+
 #Networkwalks #Cybersecurity #JohnTheRipper #EthicalHacking #PasswordSecurity
