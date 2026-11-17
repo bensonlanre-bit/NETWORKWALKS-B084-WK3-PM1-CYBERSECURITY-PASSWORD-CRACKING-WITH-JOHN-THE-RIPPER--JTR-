@@ -1,10 +1,11 @@
 # NETWORKWALKS-B084-WK3-PM1-CYBERSECURITY-PASSWORD-CRACKING-WITH-JOHN-THE-RIPPER-(JTR)
-This is an isolated visual lab built with John the ripper (JTR) & Johnny GUI for Cybersecurity testing and penetration testing
+This is an isolated visual lab built with John the ripper (JTR) for Cybersecurity testing and penetration testing
 
 <div align="center">
 
 
 🔐 PASSWORD CRACKING WITH JOHN THE RIPPER (JTR)
+
 **Building an isolated virtual lab for penetration testing and ethical hacking practice**
 </div>
 
