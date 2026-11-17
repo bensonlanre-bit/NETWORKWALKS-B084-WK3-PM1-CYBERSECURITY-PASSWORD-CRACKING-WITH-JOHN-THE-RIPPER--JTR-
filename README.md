@@ -3,7 +3,8 @@ This is an isolated visual lab built with John the ripper (JTR) & Johnny GUI for
 
 <div align="center">
 
-# 🔐 Cybersecurity Lab Environment Setup
+
+🔐 Password Cracking with John the Ripper
 
 **Building an isolated virtual lab for penetration testing and ethical hacking practice**
 </div>
@@ -23,5 +24,51 @@ This is an isolated visual lab built with John the ripper (JTR) & Johnny GUI for
   <img src="https://img.shields.io/badge/Waqas%20Karim%20CCIE-C00000?style=flat-square" />
 </p>
 
----
+--
+Project Overview
 
+This project documents my practical learning experience using John the Ripper, a popular password security auditing and password recovery tool used in cybersecurity.
+
+The objective
+
+is to understand how weak passwords can be identified, why password security matters, and how cybersecurity professionals can use password auditing tools to strengthen system security.
+
+🎯 Learning Objectives
+
+Understand how John the Ripper works.
+Learn basic John the Ripper commands in Kali Linux.
+Identify weak passwords through authorised password auditing.
+Understand password hashes and dictionary-based attacks.
+Learn the importance of strong passwords and secure password storage.
+
+🛠️ Tools and Environment
+
+Operating System: Kali Linux
+Virtualisation: Oracle VirtualBox
+Security Tool: John the Ripper
+Platform: Linux Terminal
+
+💻 Practical Activities
+
+Checked whether John the Ripper was installed.
+Used john --help to explore available commands.
+Learned the basic John the Ripper command structure.
+Explored password auditing concepts.
+Practised in a controlled learning environment using authorised test data.
+
+
+📚 Key Takeaways
+
+This exercise improved my understanding of password security, password hashes, Linux security tools, and the importance of protecting sensitive information.
+
+🚀 My Cybersecurity Learning Journey
+
+I am building practical cybersecurity skills through Kali Linux and hands-on VirtualBox laboratory exercises.
+This project is one step in my continuous journey towards becoming a cybersecurity professional.
+Learning Today. Securing Tomorrow.
+
+🔒 Cybersecurity and Ethical Considerations
+
+All practical exercises are intended strictly for educational and defensive cybersecurity purposes.
+Password auditing should only be performed on password hashes that belong to you or that you have explicit permission to test.
+#Networkwalks #Cybersecurity #JohnTheRipper #EthicalHacking #PasswordSecurity
